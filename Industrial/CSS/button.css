@@ -1,12 +1,10 @@
-.A2button,.A3button{
-    padding: 15px 30px;
-    border:0px;
-    color: #d9cbb3;
-    text-align: center; 
-    background: transparent;
+.js-clipEmail{
+    width : 48px;
+    height:32.14px;
     display: inline-block;
 }
 
-.A1button{
-    padding-left: 70px;
+.js-tistory{
+    padding-left: 120px;
+    padding-top:20px;
 }
