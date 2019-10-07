@@ -1,0 +1,11 @@
+.buttonForm{
+    height:auto;
+    width:100%;
+    position: sticky;
+}
+
+.introudecPage{
+    border :solid 1px;
+    width:100%;
+    height:1000px;
+}
